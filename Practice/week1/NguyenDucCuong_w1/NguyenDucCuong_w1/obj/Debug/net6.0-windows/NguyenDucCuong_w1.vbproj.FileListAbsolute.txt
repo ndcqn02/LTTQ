@@ -1,0 +1,17 @@
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\bin\Debug\net6.0-windows\NguyenDucCuong_w1.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\bin\Debug\net6.0-windows\NguyenDucCuong_w1.deps.json
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\bin\Debug\net6.0-windows\NguyenDucCuong_w1.runtimeconfig.json
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\bin\Debug\net6.0-windows\NguyenDucCuong_w1.dll
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\bin\Debug\net6.0-windows\NguyenDucCuong_w1.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.vbproj.AssemblyReference.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.Form1.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.vbproj.GenerateResource.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.GeneratedMSBuildEditorConfig.editorconfig
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.AssemblyInfoInputs.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.AssemblyInfo.vb
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.vbproj.CoreCompileInputs.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.dll
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\refint\NguyenDucCuong_w1.dll
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\NguyenDucCuong_w1.genruntimeconfig.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\NguyenDucCuong_w1\NguyenDucCuong_w1\obj\Debug\net6.0-windows\ref\NguyenDucCuong_w1.dll

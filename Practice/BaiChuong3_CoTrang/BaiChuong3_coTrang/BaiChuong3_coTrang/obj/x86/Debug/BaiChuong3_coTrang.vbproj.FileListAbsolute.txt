@@ -1,0 +1,22 @@
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\bin\Debug\BaiChuong3_coTrang.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\bin\Debug\BaiChuong3_coTrang.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\bin\Debug\BaiChuong3_coTrang.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.Form1.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.Resources.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.vbproj.GenerateResource.Cache
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.Circle.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\bin\Debug\BaiChuong3_coTrang.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\bin\Debug\BaiChuong3_coTrang.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\bin\Debug\BaiChuong3_coTrang.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.HinhThang.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.Form1.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.HinhTron.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.Resources.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.vbproj.GenerateResource.Cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\BaiChuong3_CoTrang\BaiChuong3_coTrang\BaiChuong3_coTrang\obj\x86\Debug\BaiChuong3_coTrang.TinhTong.resources

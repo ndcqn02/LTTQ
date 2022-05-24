@@ -1,0 +1,13 @@
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Form_chinh.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Resources.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.vbproj.GenerateResource.Cache
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.xml
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_1.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.vbprojResolveAssemblyReference.cache
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_2.resources

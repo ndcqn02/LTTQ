@@ -1,0 +1,21 @@
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\bin\Debug\BtC2_TaoFormQuanLyVeMayBay.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\bin\Debug\BtC2_TaoFormQuanLyVeMayBay.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\bin\Debug\BtC2_TaoFormQuanLyVeMayBay.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.Form1.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.Resources.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.vbproj.GenerateResource.Cache
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.pdb
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.exe
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.xml
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.pdb
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\bin\Debug\BtC2_TaoFormQuanLyVeMayBay.exe
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\bin\Debug\BtC2_TaoFormQuanLyVeMayBay.pdb
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\bin\Debug\BtC2_TaoFormQuanLyVeMayBay.xml
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.Form1.resources
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.Resources.resources
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.vbproj.GenerateResource.Cache
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.QuanLyLichBay.resources
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.BanVe.resources
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\BtC2_TaoFormQuanLyVeMayBay\obj\x86\Debug\BtC2_TaoFormQuanLyVeMayBay.TraCuuVe.resources

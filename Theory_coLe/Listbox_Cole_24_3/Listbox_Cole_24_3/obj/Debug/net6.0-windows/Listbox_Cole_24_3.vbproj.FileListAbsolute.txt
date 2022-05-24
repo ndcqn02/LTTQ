@@ -1,0 +1,17 @@
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\bin\Debug\net6.0-windows\Listbox_Cole_24_3.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\bin\Debug\net6.0-windows\Listbox_Cole_24_3.deps.json
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\bin\Debug\net6.0-windows\Listbox_Cole_24_3.runtimeconfig.json
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\bin\Debug\net6.0-windows\Listbox_Cole_24_3.dll
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\bin\Debug\net6.0-windows\Listbox_Cole_24_3.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.vbproj.AssemblyReference.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.Form1.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.vbproj.GenerateResource.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.GeneratedMSBuildEditorConfig.editorconfig
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.AssemblyInfoInputs.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.AssemblyInfo.vb
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.vbproj.CoreCompileInputs.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.dll
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\refint\Listbox_Cole_24_3.dll
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\Listbox_Cole_24_3.genruntimeconfig.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\Listbox_Cole_24_3\Listbox_Cole_24_3\obj\Debug\net6.0-windows\ref\Listbox_Cole_24_3.dll

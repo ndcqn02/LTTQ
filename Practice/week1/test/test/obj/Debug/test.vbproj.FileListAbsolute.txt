@@ -1,0 +1,13 @@
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\bin\Debug\test.exe.config
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\bin\Debug\test.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\bin\Debug\test.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\bin\Debug\test.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.vbproj.AssemblyReference.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.vbproj.SuggestedBindingRedirects.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.Form1.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.Resources.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.vbproj.GenerateResource.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\week1\test\test\obj\Debug\test.pdb

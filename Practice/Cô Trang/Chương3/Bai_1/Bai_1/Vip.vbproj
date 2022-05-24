@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9FCEC7AC-553B-42CB-81E0-73967AAD9087}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Bai_1.My.MyApplication</StartupObject>
+    <RootNamespace>Bai_1</RootNamespace>
+    <AssemblyName>Bai_1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Bai_1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Bai_1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bai_1\Bai_1.Designer.vb">
+      <DependentUpon>Bai_1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_10.Designer.vb">
+      <DependentUpon>Bai_10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_2.Designer.vb">
+      <DependentUpon>Bai_2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_3.Designer.vb">
+      <DependentUpon>Bai_3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_4.Designer.vb">
+      <DependentUpon>Bai_4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_5.Designer.vb">
+      <DependentUpon>Bai_5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_6.Designer.vb">
+      <DependentUpon>Bai_6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_7.Designer.vb">
+      <DependentUpon>Bai_7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_8.Designer.vb">
+      <DependentUpon>Bai_8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_1\Bai_9.Designer.vb">
+      <DependentUpon>Bai_9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_1\Bai_9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_12.Designer.vb">
+      <DependentUpon>Bai_12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_13.Designer.vb">
+      <DependentUpon>Bai_13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_14.Designer.vb">
+      <DependentUpon>Bai_14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_15.Designer.vb">
+      <DependentUpon>Bai_15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_16.Designer.vb">
+      <DependentUpon>Bai_16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_17.Designer.vb">
+      <DependentUpon>Bai_17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_18.Designer.vb">
+      <DependentUpon>Bai_18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_19.Designer.vb">
+      <DependentUpon>Bai_19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai_20.Designer.vb">
+      <DependentUpon>Bai_20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai_20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_2\Bai__11.Designer.vb">
+      <DependentUpon>Bai__11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_2\Bai__11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_21.Designer.vb">
+      <DependentUpon>Bai_21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_22.Designer.vb">
+      <DependentUpon>Bai_22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_23.Designer.vb">
+      <DependentUpon>Bai_23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_24.Designer.vb">
+      <DependentUpon>Bai_24.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_24.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_25.Designer.vb">
+      <DependentUpon>Bai_25.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_25.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_26.Designer.vb">
+      <DependentUpon>Bai_26.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_26.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_27.Designer.vb">
+      <DependentUpon>Bai_27.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_27.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_28.Designer.vb">
+      <DependentUpon>Bai_28.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_28.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_29.Designer.vb">
+      <DependentUpon>Bai_29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_3\Bai_30.Designer.vb">
+      <DependentUpon>Bai_30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_3\Bai_30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_31.Designer.vb">
+      <DependentUpon>Bai_31.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_31.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_32.Designer.vb">
+      <DependentUpon>Bai_32.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_32.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_33.Designer.vb">
+      <DependentUpon>Bai_33.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_33.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_34.Designer.vb">
+      <DependentUpon>Bai_34.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_34.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_35.Designer.vb">
+      <DependentUpon>Bai_35.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_35.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_36.Designer.vb">
+      <DependentUpon>Bai_36.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_36.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_37.Designer.vb">
+      <DependentUpon>Bai_37.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_37.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_38.Designer.vb">
+      <DependentUpon>Bai_38.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_38.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_39.Designer.vb">
+      <DependentUpon>Bai_39.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_39.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_4\Bai_40.Designer.vb">
+      <DependentUpon>Bai_40.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_4\Bai_40.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_41.Designer.vb">
+      <DependentUpon>Bai_41.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_41.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_42.Designer.vb">
+      <DependentUpon>Bai_42.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_42.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_43.Designer.vb">
+      <DependentUpon>Bai_43.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_43.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_44.Designer.vb">
+      <DependentUpon>Bai_44.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_44.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_45.Designer.vb">
+      <DependentUpon>Bai_45.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_45.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_46.Designer.vb">
+      <DependentUpon>Bai_46.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_46.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_47.Designer.vb">
+      <DependentUpon>Bai_47.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_47.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_48.Designer.vb">
+      <DependentUpon>Bai_48.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_48.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_49.Designer.vb">
+      <DependentUpon>Bai_49.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_49.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bai_5\Bai_50.Designer.vb">
+      <DependentUpon>Bai_50.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bai_5\Bai_50.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_chinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_chinh.Designer.vb">
+      <DependentUpon>Form_chinh.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Bai_1\Bai_1.resx">
+      <DependentUpon>Bai_1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_10.resx">
+      <DependentUpon>Bai_10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_2.resx">
+      <DependentUpon>Bai_2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_3.resx">
+      <DependentUpon>Bai_3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_4.resx">
+      <DependentUpon>Bai_4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_5.resx">
+      <DependentUpon>Bai_5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_6.resx">
+      <DependentUpon>Bai_6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_7.resx">
+      <DependentUpon>Bai_7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_8.resx">
+      <DependentUpon>Bai_8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_1\Bai_9.resx">
+      <DependentUpon>Bai_9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_12.resx">
+      <DependentUpon>Bai_12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_13.resx">
+      <DependentUpon>Bai_13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_14.resx">
+      <DependentUpon>Bai_14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_15.resx">
+      <DependentUpon>Bai_15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_16.resx">
+      <DependentUpon>Bai_16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_17.resx">
+      <DependentUpon>Bai_17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_18.resx">
+      <DependentUpon>Bai_18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_19.resx">
+      <DependentUpon>Bai_19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai_20.resx">
+      <DependentUpon>Bai_20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_2\Bai__11.resx">
+      <DependentUpon>Bai__11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_21.resx">
+      <DependentUpon>Bai_21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_22.resx">
+      <DependentUpon>Bai_22.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_23.resx">
+      <DependentUpon>Bai_23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_24.resx">
+      <DependentUpon>Bai_24.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_25.resx">
+      <DependentUpon>Bai_25.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_26.resx">
+      <DependentUpon>Bai_26.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_27.resx">
+      <DependentUpon>Bai_27.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_28.resx">
+      <DependentUpon>Bai_28.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_29.resx">
+      <DependentUpon>Bai_29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_3\Bai_30.resx">
+      <DependentUpon>Bai_30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_31.resx">
+      <DependentUpon>Bai_31.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_32.resx">
+      <DependentUpon>Bai_32.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_33.resx">
+      <DependentUpon>Bai_33.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_34.resx">
+      <DependentUpon>Bai_34.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_35.resx">
+      <DependentUpon>Bai_35.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_36.resx">
+      <DependentUpon>Bai_36.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_37.resx">
+      <DependentUpon>Bai_37.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_38.resx">
+      <DependentUpon>Bai_38.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_39.resx">
+      <DependentUpon>Bai_39.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_4\Bai_40.resx">
+      <DependentUpon>Bai_40.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_41.resx">
+      <DependentUpon>Bai_41.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_42.resx">
+      <DependentUpon>Bai_42.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_43.resx">
+      <DependentUpon>Bai_43.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_44.resx">
+      <DependentUpon>Bai_44.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_45.resx">
+      <DependentUpon>Bai_45.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_46.resx">
+      <DependentUpon>Bai_46.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_47.resx">
+      <DependentUpon>Bai_47.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_48.resx">
+      <DependentUpon>Bai_48.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_49.resx">
+      <DependentUpon>Bai_49.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bai_5\Bai_50.resx">
+      <DependentUpon>Bai_50.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_chinh.resx">
+      <DependentUpon>Form_chinh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,20 @@
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\bin\Debug\bai5.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\bin\Debug\bai5.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\bin\Debug\bai5.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\obj\x86\Debug\bai5.Resources.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\obj\x86\Debug\bai5.vbproj.GenerateResource.Cache
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\obj\x86\Debug\bai5.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\obj\x86\Debug\bai5.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\obj\x86\Debug\bai5.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\bai5\obj\x86\Debug\bai5.Bai5_ListView.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.Bai5_ListView.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.Resources.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.TreeView.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.vbproj.GenerateResource.Cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\bin\Debug\bai5.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\bin\Debug\bai5.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\bin\Debug\bai5.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\bai5\bai5\obj\x86\Debug\bai5.TreeViewAdd.resources

@@ -1,0 +1,18 @@
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\bin\Debug\BaiTapKetNoiCSDL.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\bin\Debug\BaiTapKetNoiCSDL.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\bin\Debug\BaiTapKetNoiCSDL.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.Form1.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.Resources.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.vbproj.GenerateResource.Cache
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.pdb
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.exe
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.xml
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.pdb
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\bin\Debug\BaiTapKetNoiCSDL.exe
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\bin\Debug\BaiTapKetNoiCSDL.pdb
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\bin\Debug\BaiTapKetNoiCSDL.xml
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.Form1.resources
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.Resources.resources
+H:\2_Sophomore\semester_221\LTTQ\Theory_coLe\Bai_tap_QuanLyVeMayBay\BaiTapKetNoiCSDL\BaiTapKetNoiCSDL\obj\x86\Debug\BaiTapKetNoiCSDL.vbproj.GenerateResource.Cache

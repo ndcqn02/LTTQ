@@ -1,0 +1,377 @@
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\bin\Debug\Bai_1.xml
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_1.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_2.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_3.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Form_chinh.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Resources.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Vip.vbproj.GenerateResource.Cache
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_4.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_5.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_6.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_7.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_8.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_9.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_10.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai__11.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_12.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_13.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_14.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_15.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_16.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_17.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_18.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_19.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_20.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_21.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_22.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Vip.vbprojResolveAssemblyReference.cache
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_23.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_24.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_25.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_26.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_27.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_28.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_29.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_30.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_31.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_32.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_33.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_34.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_35.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_36.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_37.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_40.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_38.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_39.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_41.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_48.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_49.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_50.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_42.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_43.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_44.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_46.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_45.resources
+D:\HIEU_GIDDY\Hoc_Tap\Visual Studio 2013\Projects\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_47.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.xml
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbprojAssemblyReference.cache
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_1.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_10.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_2.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_3.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_4.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_5.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_6.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_7.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_8.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_9.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_12.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_13.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_14.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_15.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_16.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_17.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_18.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_19.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_20.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai__11.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_21.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_22.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_23.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_24.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_25.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_26.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_27.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_28.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_29.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_30.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_31.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_32.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_33.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_34.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_35.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_36.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_37.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_38.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_39.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_40.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_41.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_42.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_43.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_44.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_45.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_46.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_47.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_48.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_49.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_50.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Form_chinh.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Resources.resources
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.GenerateResource.cache
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.CoreCompileInputs.cache
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+C:\Users\Khoa\Desktop\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.xml
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbprojAssemblyReference.cache
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_1.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_10.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_2.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_3.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_4.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_5.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_6.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_7.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_8.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_9.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_12.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_13.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_14.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_15.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_16.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_17.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_18.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_19.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_20.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai__11.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_21.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_22.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_23.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_24.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_25.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_26.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_27.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_28.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_29.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_30.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_31.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_32.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_33.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_34.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_35.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_36.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_37.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_38.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_39.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_40.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_41.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_42.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_43.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_44.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_45.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_46.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_47.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_48.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_49.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_50.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Form_chinh.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Resources.resources
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.GenerateResource.cache
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.CoreCompileInputs.cache
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+D:\BtLTTQ\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\bin\Debug\Bai_1.xml
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.AssemblyReference.cache
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.SuggestedBindingRedirects.cache
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_1.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_10.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_2.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_3.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_4.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_5.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_6.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_7.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_8.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_9.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_12.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_13.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_14.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_15.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_16.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_17.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_18.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_19.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_20.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai__11.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_21.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_22.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_23.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_24.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_25.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_26.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_27.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_28.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_29.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_30.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_31.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_32.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_33.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_34.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_35.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_36.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_37.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_38.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_39.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_40.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_41.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_42.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_43.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_44.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_45.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_46.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_47.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_48.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_49.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_50.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Form_chinh.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.Resources.resources
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.GenerateResource.cache
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Vip.vbproj.CoreCompileInputs.cache
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+D:\LTTQ_CoLe\BaiTap\guiCam\guiCam\50 Bài Cô Lệ\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\bin\Debug\Bai_1.xml
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Vip.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Vip.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_1.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_10.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_2.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_3.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_4.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_5.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_6.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_7.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_8.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_9.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_12.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_13.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_14.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_15.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_16.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_17.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_18.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_19.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_20.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai__11.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_21.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_22.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_23.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_24.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_25.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_26.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_27.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_28.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_29.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_30.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_31.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_32.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_33.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_34.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_35.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_36.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_37.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_38.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_39.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_40.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_41.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_42.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_43.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_44.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_45.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_46.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_47.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_48.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_49.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_50.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Form_chinh.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.Resources.resources
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Vip.vbproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Vip.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+C:\Users\ADMIN\Downloads\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\bin\Debug\Bai_1.exe.config
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\bin\Debug\Bai_1.exe
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\bin\Debug\Bai_1.pdb
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\bin\Debug\Bai_1.xml
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Vip.vbproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Vip.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_1.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_10.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_2.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_3.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_4.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_5.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_6.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_7.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_8.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_9.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_12.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_13.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_14.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_15.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_16.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_17.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_18.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_19.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_20.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai__11.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_21.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_22.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_23.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_24.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_25.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_26.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_27.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_28.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_29.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_30.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_31.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_32.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_33.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_34.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_35.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_36.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_37.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_38.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_39.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_40.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_41.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_42.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_43.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_44.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_45.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_46.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_47.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_48.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_49.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Bai_50.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Form_chinh.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.Resources.resources
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Vip.vbproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Vip.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+C:\Users\ADMIN\Desktop\VB.Net\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\Cô Trang\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\Cô Trang\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\Cô Trang\Chương3\Bai_1\Bai_1\obj\Debug\Bai_1.pdb

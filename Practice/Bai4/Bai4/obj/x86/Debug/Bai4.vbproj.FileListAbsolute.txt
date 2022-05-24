@@ -1,0 +1,19 @@
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\bin\Debug\Bai4.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\bin\Debug\Bai4.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\bin\Debug\Bai4.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\obj\x86\Debug\Bai4.ListBox.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\obj\x86\Debug\Bai4.Resources.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\obj\x86\Debug\Bai4.vbproj.GenerateResource.Cache
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\obj\x86\Debug\Bai4.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\obj\x86\Debug\Bai4.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\Bai4\obj\x86\Debug\Bai4.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\obj\x86\Debug\Bai4.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\obj\x86\Debug\Bai4.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\obj\x86\Debug\Bai4.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\bin\Debug\Bai4.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\bin\Debug\Bai4.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\bin\Debug\Bai4.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\obj\x86\Debug\Bai4.ListBox.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\obj\x86\Debug\Bai4.Resources.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\obj\x86\Debug\Bai4.vbproj.GenerateResource.Cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\Bai4\Bai4\obj\x86\Debug\Bai4.Bai4_Combobox_ListView.resources

@@ -1,0 +1,23 @@
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\bin\Debug\KiemTra.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\bin\Debug\KiemTra.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\bin\Debug\KiemTra.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.Form1.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.Resources.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.vbproj.GenerateResource.Cache
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.exe
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.xml
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.pdb
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.Bai1.resources
+C:\Users\NGUYEN DUC CUONG\AppData\Local\Temporary Projects\KiemTra\obj\x86\Debug\KiemTra.Bai2.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.Form1.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.Resources.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.vbproj.GenerateResource.Cache
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\bin\Debug\KiemTra.exe
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\bin\Debug\KiemTra.pdb
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\bin\Debug\KiemTra.xml
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.Bai12.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.Bai22.resources
+H:\2_Sophomore\semester_221\LTTQ\Practice\kiemTra\KiemTra\KiemTra\obj\x86\Debug\KiemTra.Bai39.resources
