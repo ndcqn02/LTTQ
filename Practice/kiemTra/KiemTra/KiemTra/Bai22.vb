@@ -28,6 +28,8 @@
         Return tong(n - 1, arr)
     End Function
 
+
+
     Private Sub btnThucHien_Click(sender As System.Object, e As System.EventArgs) Handles btnThucHien.Click
         If txt1.Text <> "" Then
             Dim x% = CInt(txt1.Text)
